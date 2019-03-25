@@ -1,0 +1,132 @@
+html, body {
+    width: 100%;
+    margin: 0;
+}
+
+#header {
+    background-color: rgb(80, 80, 80);
+    width: 100%;
+    height: 80%;
+    position: absolute;
+}
+
+#main {
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+    height: 85%;
+    position: absolute;
+    top: 80%;
+}
+
+#d1 {
+    background-color: rgb(50, 50, 50);
+    width: 100%;
+    height: 7.5%;
+    position: absolute;
+}
+
+.horizontal-list {
+    width: 80%;
+    list-style: none;
+    margin: 0% 10%;
+    display: table;
+    height: 100%;
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.horizontal-list li {
+    color: white;
+    display: table-cell;
+    text-align: center;
+    font-size: 90%;
+    padding-top: 1%;
+    position: relative;
+}
+
+#diamond {
+    top: 9%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+#d2 {
+    top: 15%;
+    position: relative;
+    color: white;
+    font-size: 160%;
+    text-align: center;
+    font-family: "Comic Sans MS";
+}
+
+#d3 {
+    position: relative;
+    top: 15%;
+    margin: 1% 0%;
+    height: 7.5%;
+    text-align: center;
+}
+
+#custom {
+    position: absolute;
+    height: 85%;
+    width: 41.5%;
+    left: 27.5%;
+}
+
+#search {
+    position: absolute;
+    left: 69%;
+    margin-left: 0.5%;
+    height: 100%;
+    width: 3%;
+    background-color: #73AD21;
+    border: none;
+}
+
+span {
+    font-weight: bold;
+}
+
+#d4 {
+    position: relative;
+    top: 20%;
+    margin: auto;
+    width: 30%;
+}
+
+.class1 {
+    color: white;
+    float: left;
+    position: relative;
+    width: 33%;
+    font-size: 160%;
+    text-align: center;
+}
+
+#d5 {
+    position: relative;
+    top: 25%;
+    width: 80%;
+    float: left;
+    left: 10%;
+}
+
+.class2 {
+    color: white;
+    float: left;
+    position: relative;
+    width: 16.66%;
+    text-align: center;
+    height: auto;
+}
+
+.border-circle {
+    background-color: rgb(50, 50, 50);
+    border-radius: 50%;
+    padding: 5%;
+    height: auto;
+    position: relative;
+}

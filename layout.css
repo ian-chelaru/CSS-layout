@@ -1,0 +1,62 @@
+#d1 {
+	border-style: solid;
+	width: 90%;
+	height: 10%;
+	background-color: red;
+	position: absolute;
+	margin: 1% 5%;
+}
+
+#d2 {
+	border-style: solid;
+	width: 20%;
+	margin: 1% 5%;
+	background-color: blue;
+	position: absolute;
+	height: 80%;
+	top: 15%;
+}
+
+#d3 {
+	border-style: solid;
+	width: 60%;
+	height: 80%;
+	top: 15%;
+	left: 30%;
+	position: absolute;
+	background-color: green;
+	margin: 1% 5%;
+}
+
+#d4 {
+	border-style: solid;
+	position: absolute;
+	background-color: orange;
+	width: 45%;
+	height: 90%;
+	margin: 4% 2.4%;
+}
+
+#d5 {
+	border-style: solid;
+	position: absolute;
+	background-color: magenta;
+	width: 45%;
+	height: 90%;
+	margin: 4% 2.4%;
+	left: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
